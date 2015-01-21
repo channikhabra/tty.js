@@ -15,7 +15,7 @@
   "dependencies": {
     "express": "3.4.4",
     "socket.io": "0.9.16",
-    "pty.js": "0.2.4",
+    "pty.js": "https://github.com/chjj/pty.js/archive/18238d37e2915b3ac97e4ae0d5cb3e33f76ac758.tar.gz",
     "term.js": "0.0.3"
   },
   "engines": { "node": ">= 0.8.0" }
